@@ -1,3 +1,3 @@
-#DEMO
+# Demo
 
 Tutorials on git.
